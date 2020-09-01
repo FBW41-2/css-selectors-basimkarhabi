@@ -1,18 +1,40 @@
   main {
     margin: 30px;
   }
-  
+
   img {
     height: 100px;
   }
-  
+
+
+
+
+
   /* Task 1 */
-  
+  h3 {
+    color: blue;
+  }
+
   /* Task 2 */
-  
+
+  .ttt,
+  .fff {
+    color: red;
+  }
+
   /* Task 3 */
-  
+
+  img[src $="https://www.gstatic.com/webp/gallery/1.jpg"] {
+    border: 4px solid green;
+  }
+
   /* Task 4 */
-  
+  a[href~="www.example.com"] {
+    background-color: yellow;
+  }
+
+
   /* Task 5 */
-  
+  #task5 {
+    color: pink;
+  }
